@@ -1,8 +1,8 @@
 # Mahendra P | Agentic AI Practitioner & Operational Excellence
 > "Translating complex agentic AI capability into reliable enterprise outcomes that cross-border IT leaders can confidently act on."
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Calendly](https://shields.io)](https://calendly.com)
+[![LinkedIn](https://shields.io)](https://linkedin.com/in/mahendra-p)
+[![Calendly](https://shields.io)](https://calendly.com/mahendra-p/30-min-chat-ai-strategy-opportunities)
 
 ---
 
